@@ -1,0 +1,6 @@
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\obj\Release\.NETFramework,Version=v4.5.AssemblyAttribute.cs
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\bin\Release\TeamSpeakQuery.dll.config
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\bin\Release\TeamSpeakQuery.dll.mdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\bin\Release\TeamSpeakQuery.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\obj\Release\TeamSpeakQuery.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\obj\Release\TeamSpeakQuery.dll.mdb

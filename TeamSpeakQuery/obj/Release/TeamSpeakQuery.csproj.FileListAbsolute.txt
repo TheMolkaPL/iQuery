@@ -1,0 +1,5 @@
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\bin\Release\TeamSpeakQuery.dll.config
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\bin\Release\TeamSpeakQuery.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\bin\Release\TeamSpeakQuery.pdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\obj\Release\TeamSpeakQuery.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\TeamSpeakQuery\TeamSpeakQuery\obj\Release\TeamSpeakQuery.pdb
